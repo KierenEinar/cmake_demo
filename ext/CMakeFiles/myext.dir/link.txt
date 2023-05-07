@@ -1,0 +1,1 @@
+/Library/Developer/CommandLineTools/usr/bin/cc  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.0.sdk -dynamiclib -Wl,-headerpad_max_install_names -o libmyext.dylib -install_name @rpath/libmyext.dylib CMakeFiles/myext.dir/utils.c.o CMakeFiles/myext.dir/mymath.c.o 

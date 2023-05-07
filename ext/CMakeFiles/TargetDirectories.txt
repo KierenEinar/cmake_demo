@@ -1,0 +1,3 @@
+/Users/kieren/CLionProjects/cmake_demo/ext/CMakeFiles/myext.dir
+/Users/kieren/CLionProjects/cmake_demo/ext/CMakeFiles/edit_cache.dir
+/Users/kieren/CLionProjects/cmake_demo/ext/CMakeFiles/rebuild_cache.dir
