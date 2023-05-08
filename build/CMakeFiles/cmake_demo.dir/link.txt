@@ -1,1 +1,0 @@
-/Library/Developer/CommandLineTools/usr/bin/cc  -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX11.0.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/cmake_demo.dir/src/main.c.o -o cmake_demo   -L/Users/kieren/CLionProjects/cmake_demo/ext  -Wl,-rpath,/Users/kieren/CLionProjects/cmake_demo/ext -lmyext 

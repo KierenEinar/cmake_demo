@@ -1,3 +1,0 @@
-/Users/kieren/CLionProjects/cmake_demo/build/CMakeFiles/cmake_demo.dir
-/Users/kieren/CLionProjects/cmake_demo/build/CMakeFiles/edit_cache.dir
-/Users/kieren/CLionProjects/cmake_demo/build/CMakeFiles/rebuild_cache.dir

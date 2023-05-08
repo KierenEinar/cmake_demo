@@ -31,6 +31,14 @@ int main() {
     flexablearr1 a1;
     printf("flexablearr1 size=%lu;\n", sizeof(a1));
 
+    flexablearr1 *a2 = malloc(sizeof(flexablearr1) + 10);
+    char *buf = (char*)(a2+1);
+    memcpy(buf, "123456789", 9);
+    buf[9] = '\0';
+    printf("a2->buf=%s, ptr=%p\n", a2->buf, a2->buf);
+    printf("buf=%s, ptr=%p\n", buf, buf);
+    free(a2);
+
 #ifdef Test
     printf("test!\n");
 #else
