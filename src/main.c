@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <memory.h>
+#include <stdint.h>
 #include "mymath.h"
 #include "utils.h"
 typedef struct aofrwblock {
